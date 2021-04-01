@@ -14,10 +14,25 @@ const questions = [
         message: 'Please describe your project.'
     },
     {
+        type: 'input',
+        name: 'installation',
+        message: 'Please enter installation instructions.'
+    },
+    {
         type: 'list',
         name: 'licenses',
         message: 'What kind of license do you want to include?',
         choices: ['None', 'MIT', 'Apache License 2.0', 'GNU GPLv3', 'ISC']
+    },
+    {
+        type: 'input',
+        name: 'github',
+        message: 'Please enter your github username.'
+    },
+    {
+        type: 'input',
+        name: 'email',
+        message: 'Please enter your email.'
     },
 ];
 
