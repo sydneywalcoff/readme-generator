@@ -2,13 +2,13 @@
 # lk;j ![license](https://img.shields.io/badge/license-BSD--3--Clause-green)
 
 ## Table of Contents
-* Description
-* Installation
-* Usage
-* License
-* Contributing
-* Tests
-* Questions
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
 
 ## Description
 klj
