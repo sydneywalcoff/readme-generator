@@ -19,6 +19,7 @@ function generateMarkdown(data) {
   * Description
   * Installation
   * Usage
+  * License
   * Contributing
   * Tests
   * Questions
@@ -30,10 +31,16 @@ function generateMarkdown(data) {
   ${data.installation}
 
   ## Usage
+  ${data.usage}
+
+  ## License
+  ${data.license}
 
   ## Contributing
+  ${data.contribution}
 
   ## Tests
+  ${data.test}
 
   ## Questions
   Questions? Reach out at github.com/${data.github} or ${data.email}
