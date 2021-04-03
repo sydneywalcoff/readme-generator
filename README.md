@@ -21,7 +21,7 @@ A Node application using Inquirer to create perfectly styled and personalized RE
 Made with love by Sydney Walcoff
 
 ## Tests
-![](walkthrough.mp4)
+![](./walkthrough.mp4)
 
 ## Questions
 Questions? Reach out at github.com/sydneywalcoff or sydney.walcoff@gmail.com
