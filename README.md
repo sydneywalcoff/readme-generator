@@ -5,6 +5,7 @@ A Command Line application using inquirer to create beautiful READMEs ready for 
 ## Built With
 * JavaScript
 * Node
+* Inquirer
 
 ## Contribution
 Made with ❤️ by Sydney Walcoff

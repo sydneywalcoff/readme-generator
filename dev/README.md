@@ -1,4 +1,4 @@
-# aksdhjfksd 
+# README Generator 
 
 ## Table of Contents
 * [Description](#description)
@@ -9,20 +9,19 @@
 * [Questions](#questions)
 
 ## Description
-jsdkhfjk
+A Node application using Inquirer to create perfectly styled and personalized README.md documents for any project.
 
 ## Installation
-ajkdfh
+`npm install` to download Inquirer
 
 ## Usage
-kjsdhf
+`node index` to run README Generator
 
 ## Contributing
-kjdshfjk
+Made with love by Sydney Walcoff
 
 ## Tests
-hajkdsfh
+None required
 
 ## Questions
-Questions? Reach out at github.com/Sydneywalcoff or sydney.walcoff@gmail.com
-  
+Questions? Reach out at github.com/sydneywalcoff or sydney.walcoff@gmail.com

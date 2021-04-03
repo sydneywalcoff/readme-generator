@@ -128,7 +128,7 @@ function writeToFile(fileName, data) {
     fs.writeFile(fileName, data, err => {
         if(err) throw err;
 
-        console.log('README complete!');
+        console.log('README complete! Open dev folder for your custom README!');
     })
 }
 
