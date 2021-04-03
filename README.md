@@ -1,13 +1,27 @@
-# README Generator
-## Purpose
-A Command Line application using inquirer to create beautiful READMEs ready for any project.
+# README Generator 
 
-## Built With
-* JavaScript
-* Node
-* Inquirer
+## Table of Contents
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage) 
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
 
-## Contribution
-Made with ❤️ by Sydney Walcoff
+## Description
+A Node application using Inquirer to create perfectly styled and personalized README.md documents for any project.
 
-## Demo
+## Installation
+`npm install` to download Inquirer
+
+## Usage
+`node index` to run README Generator
+
+## Contributing
+Made with love by Sydney Walcoff
+
+## Tests
+N/A
+
+## Questions
+Questions? Reach out at github.com/sydneywalcoff or sydney.walcoff@gmail.com
