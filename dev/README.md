@@ -1,33 +1,33 @@
 
-  # readme-generator
+# lk;j ![license](https://img.shields.io/badge/license-BSD--3--Clause-green)
 
-  ## Table of Contents
-  * Description
-  * Installation
-  * Usage
-  * License
-  * Contributing
-  * Tests
-  * Questions
+## Table of Contents
+* Description
+* Installation
+* Usage
+* License
+* Contributing
+* Tests
+* Questions
 
-  ## Description
-  I am a quick tool to create readmes
+## Description
+klj
 
-  ## Installation
-  install inquirer
+## Installation
+kl;
 
-  ## Usage
-  use regularly :)
+## Usage
+jkl
 
-  ## License
-  Apache License 2.0
+## License
+For more information on licensing visit: [opensource.org/licenses/BSD-3-Clause](opensource.org/licenses/BSD-3-Clause)
 
-  ## Contributing
-  alkjdflkdf
+## Contributing
+kjl
 
-  ## Tests
-  laksjdflsfjaklfja;f
+## Tests
+jkl
 
-  ## Questions
-  Questions? Reach out at github.com/sydneywalcoff or sydney.walcoff@gmail.com
+## Questions
+Questions? Reach out at github.com/Sydneywalcoff or sydney.walcoff@gmail.com
   

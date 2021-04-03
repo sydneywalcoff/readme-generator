@@ -78,15 +78,21 @@ const questions = [
         }
     },
     {
+        type: 'confirm',
+        name: 'licenseConfirm',
+        message: 'Do you want to include a license?',
+        default: true
+    },
+    {
         type: 'list',
         name: 'license',
-        message: 'What kind of license do you want to include? (Required)',
-        choices: ['None', 'MIT', 'Apache License 2.0', 'GNU GPLv3', 'ISC'],
-        validate: licenseInput => {
-            if(licenseInput) {
+        message: 'What kind of license do you want to include?',
+        choices: ['Apache-2.0', 'BSD-3-Clause', 'BSD-2-Clause', 'GPL', 'MIT', 'MPL-2.0', 'CDDL-1.0', 'EPL-2.0'],
+        when: ( { licenseConfirm }) => {
+            if(licenseConfirm) {
                 return true;
             } else {
-                console.log('Please enter the license you want to use with your project!');
+                return false;
             }
         }
     },
