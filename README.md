@@ -1,7 +1,6 @@
-# README generator
-
+# README Generator
 ## Purpose
-An application to create beautiful READMEs ready for any project.
+A Command Line application using inquirer to create beautiful READMEs ready for any project.
 
 ## Built With
 * JavaScript
