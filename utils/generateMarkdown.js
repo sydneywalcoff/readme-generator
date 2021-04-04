@@ -69,7 +69,7 @@ ${data.contribution}
 ${data.test}
 
 ## Questions
-Questions? Reach out at github.com/${data.github} or ${data.email}
+Questions? Reach out at [github.com/${data.github}](github.com/${data.github}) or ${data.email}
   `;
 }
 
