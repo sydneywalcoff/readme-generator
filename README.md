@@ -15,13 +15,13 @@ A Node application using Inquirer to create perfectly styled and personalized RE
 `npm install` to download Inquirer
 
 ## Usage
-`node index` to run README Generator
+`node index` to run README Generator. View use at: https://user-images.githubusercontent.com/75542938/113494324-231f6080-949c-11eb-9545-5a5dbca1fd4b.mp4
 
 ## Contributing
 Made with love by Sydney Walcoff
 
 ## Tests
-https://user-images.githubusercontent.com/75542938/113494324-231f6080-949c-11eb-9545-5a5dbca1fd4b.mp4
+N/A
 
 ## Questions
 Questions? Reach out at github.com/sydneywalcoff or sydney.walcoff@gmail.com
